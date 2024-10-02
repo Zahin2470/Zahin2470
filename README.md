@@ -34,15 +34,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahin2470&show_icons=true&locale=en&layout=compact" alt="zahin2470" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahin2470&show_icons=true&locale=en" alt="zahin2470" /></p>
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zahin2470/zahin2470/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<h2>🐍 My Contributions 🐍</h2>
 
-<hr/>
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahin2470&" alt="zahin2470" /></p>
