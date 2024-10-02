@@ -1,9 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abrar+Hossain+Zahin!;" />
 </h1>
+
 <h3 align="center">A Passionate Programmer and Learner </h3>
+
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin2470&label=Profile%20views&color=0e75b6&style=flat" alt="zahin2470" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahin2470" alt="zahin2470" /></a> </p>
@@ -30,5 +34,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahin2470&show_icons=true&locale=en&layout=compact" alt="zahin2470" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahin2470&show_icons=true&locale=en" alt="zahin2470" /></p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zahin2470/zahin2470/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahin2470&" alt="zahin2470" /></p>
