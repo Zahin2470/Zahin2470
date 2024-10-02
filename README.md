@@ -39,7 +39,7 @@
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahin2470&theme=nightowl&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahin2470&theme=nightowl&mode=daily" alt="GitHub Streak" />
 </p>
 
 <p align="center">
