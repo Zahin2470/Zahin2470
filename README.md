@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Faisal-8898"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Zahin2470"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" />
 </p>
 
