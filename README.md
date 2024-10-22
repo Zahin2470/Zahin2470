@@ -51,4 +51,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Zahin2470&limit=8&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Zahin2470&icon=13&color=7)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=Zahin2470&icon=21&color=7)](https://visitcount.itsvg.in) 
