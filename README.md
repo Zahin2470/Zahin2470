@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Abrar+Hossain+Zahin!;" />
 </h1>
 
-<h3 align="center">A Passionate Programmer and Learner </h3>
+<h3 align="center">A Passionate Data Analyst, Programmer and Learner </h3>
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
