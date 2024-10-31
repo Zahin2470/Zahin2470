@@ -10,9 +10,9 @@
 
 🔭  I am currently studying CSE at East West University
 
-👨‍💻  All of my projects are available at [https://github.com/Zahin2470/Md.Zahin](https://github.com/Zahin2470/Md.Zahin)
+👨‍💻  All of my projects are available at https://github.com/Zahin2470?tab=repositories
 
-💬  Ask me about **Coding**
+💬  Ask me about **Data Science and Analytics**
 
 📫 How to reach me **abrarhossain1200@gmail.com**
 
