@@ -49,6 +49,20 @@
 
 [![](https://visitcount.itsvg.in/api?id=Zahin2470&icon=27&color=5)](https://visitcount.itsvg.in) 
 
+</br>
+
+<h2 align='center'><i><a href="https://github.com/Zahin2470/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Zahin2470/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Zahin2470/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+</br>
+
 <h2>🐍 My Contributions 🐍</h2>
 
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
