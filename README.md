@@ -49,7 +49,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Zahin2470&icon=27&color=5)](https://visitcount.itsvg.in) 
 
-</br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Zahin2470&style=plastic&label=Views" alt="Profile views">
+    <img src="https://badges.pufler.dev/visits/Zahin2470/Zahin2470?color=rainbow&logo=github" alt="GitHub visits">
+</p>
 
 <h2 align='center'><i><a href="https://github.com/Zahin2470/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
