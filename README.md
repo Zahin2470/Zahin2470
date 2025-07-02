@@ -17,13 +17,29 @@
 📫 How to reach me **abrarhossain1200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/Md. abrar Hossain Zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Abrar Hossain Zahin" height="30" width="40" /></a>
-<a href="https://fb.com/md. abrar hossain zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. abrar hossain zahin" height="30" width="40" /></a>
-<a href="https://instagram.com/princemdzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princemdzahin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md.abrar_hossain_zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md.abrar_hossain_zahin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/md.zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md.zahin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammad abrar hossain zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammad abrar hossain zahin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/md-abrar-hossain-zahin-3160272a4/" target="_blank">
+    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+  <a href="https://instagram.com/md.abrarhossainzahin" target="_blank">
+    <img alt="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.youtube.com/@Md.Abrar_Hossain_Zahin" target="_blank">
+    <img alt="YouTube" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.kaggle.com/mdabrarhossainzahin" target="_blank">
+    <img alt="Kaggle" src="https://img.icons8.com/ios-filled/50/20BEFF/k.png"/>
+  </a>
+<a href="https://codeforces.com/profile/md.zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md.zahin" height="60" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/MdZahin/" target="_blank">
+    <img alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+  </a>
 </p>
 
 <h3 align="left">💻  Languages and Tools:</h3>
