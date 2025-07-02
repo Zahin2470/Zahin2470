@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=33&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Md.+Abrar+Hossain+Zahin....!;" />
 </h1>
 
-<h3 align="center">A Passionate Data Analyst, Programmer and Learner </h3>
+<h3 align="center">A Passionate Data Analyst, AI, ML, Programmer and Learner </h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.thoughtwin.com/assets/img/mernstack-img.gif">
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md. abrar hossain zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. abrar hossain zahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Md. abrar Hossain Zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Abrar Hossain Zahin" height="30" width="40" /></a>
 <a href="https://fb.com/md. abrar hossain zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. abrar hossain zahin" height="30" width="40" /></a>
 <a href="https://instagram.com/princemdzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princemdzahin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/md.abrar_hossain_zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md.abrar_hossain_zahin" height="30" width="40" /></a>
