@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/md-abrar-hossain-zahin-3160272a4/" target="_blank">
     <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="[https://www.facebook.com](https://www.facebook.com/Md.AbrarHossainZahin)/" target="_blank">
     <img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"/>
   </a>
   <a href="https://instagram.com/md.abrarhossainzahin" target="_blank">
