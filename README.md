@@ -14,10 +14,9 @@
 
 💬  Ask me about **Data Science and Analytics**
 
-📫 How to reach me **abrarhossain1200@gmail.com**
+📨 How to reach me **abrarhossain1200@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-## Connect with me:
+<h3 align="left">📬 Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-abrar-hossain-zahin-3160272a4/" target="_blank">
