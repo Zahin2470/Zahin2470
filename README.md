@@ -34,7 +34,7 @@
   <a href="https://www.kaggle.com/mdabrarhossainzahin" target="_blank">
     <img alt="Kaggle" src="https://img.icons8.com/ios-filled/50/20BEFF/k.png"/>
   </a>
-<a href="https://codeforces.com/profile/md.zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md.zahin" height="60" width="40"/>
+<a href="https://codeforces.com/profile/md.zahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md.zahin" height="60" width="30"/>
   </a>
   <a href="https://leetcode.com/u/MdZahin/" target="_blank">
     <img alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
