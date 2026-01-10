@@ -37,19 +37,16 @@
     <img alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
   </a>
   <a href="https://www.coursera.org/user/e666d437ab687569d289e3ad545edc1e" target="_blank">
-    <img alt="Coursera" src="https://img.icons8.com/color/48/000000/coursera.png"/>
+    <img alt="Coursera" src="https://cdn.simpleicons.org/coursera/2a73cc" width="48" height="48"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
-    <img alt="Google Colab" src="https://img.icons8.com/color/48/000000/google-colab.png"/>
+    <img alt="Google Colab" src="https://cdn.simpleicons.org/googlecolab/f9ab00" width="48" height="48"/>
   </a>
   <a href="https://www.researchgate.net/profile/Abrar-Zahin-7?ev=hdr_xprf" target="_blank">
-    <img alt="ResearchGate" src="https://img.icons8.com/color/48/000000/researchgate.png"/>
-  </a>
-  <a href="https://www.freelancer.com/u/MdZahin2022" target="_blank">
-    <img alt="Freelancer" src="https://img.icons8.com/color/48/000000/freelancer.png"/>
+    <img alt="ResearchGate" src="https://cdn.simpleicons.org/researchgate/00ccbb" width="48" height="48"/>
   </a>
   <a href="https://codeforces.com/profile/md.zahin" target="_blank">
-    <img alt="Codeforces" src="https://img.icons8.com/color/48/000000/codeforces.png"/>
+    <img alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48" height="48"/>
   </a>
 </p>
 
