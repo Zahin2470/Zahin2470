@@ -59,19 +59,19 @@
 <img src="https://skillicons.dev/icons?i=vscode" /> </p>
 
 ## 🏆 GitHub Trophies & 💫 What Drives My Passion
-<img align="right" width="450" 
+<img align="right" width="430" 
 src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif">
 
 <div align="left">
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" alt="GitHub Streak" width="450" />
+  <img src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" alt="GitHub Streak" width="430" />
 </p>
     
 ![](https://github-profile-trophy.vercel.app/?username=Zahin2470&theme=discord&no-frame=false&no-bg=false&margin-w=3.5)
 
 <img align="left"
-src="https://github-readme-stats-fast.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Zahin2470"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" width="520" />
+src="https://github-readme-stats-fast.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Zahin2470" width="450"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" width="450" />
 </p>
 
 ## 🔝 Top Contributed Repo
