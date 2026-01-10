@@ -6,7 +6,7 @@
 
 <h3 align="center">🤖 A Passionate Data Analyst, AI, ML, Programmer and Learner  🧠</h3>
 
-<img align="right" alt="Coding" width="550" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
 
 🔭  I am currently studying CSE at East West University
 
@@ -64,14 +64,14 @@ src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gi
 
 <div align="left">
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" alt="GitHub Streak" width="450" />
 </p>
     
 ![](https://github-profile-trophy.vercel.app/?username=Zahin2470&theme=discord&no-frame=false&no-bg=false&margin-w=3.5)
 
 <img align="left"
 src="https://github-readme-stats-fast.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Zahin2470"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" width="520" />
 </p>
 
 ## 🔝 Top Contributed Repo
