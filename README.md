@@ -115,13 +115,13 @@
 
 | **Category** | **Skills** | **Proficiency** |
 |:------------:|:----------:|:---------------:|
-| 🐍 **Programming** | Python | ████████████ 95% |
-| 🤖 **Machine Learning** | Scikit-learn, SVM, Ensemble Methods | ███████░░ 65% |
-| 🧠 **Deep Learning** | TensorFlow, PyTorch, Keras | ██████████░ 80% |
-| 📊 **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn | ████████████ 95% |
-| 🔍 **NLP** | NLTK, spaCy, Transformers, LangChain | ██████░░░ 50% |
-| 👁️ **Computer Vision** | OpenCV, CNN, Image Processing | ██████████░░ 85% |
-| 🚀 **Deployment** | Streamlit, Docker | ███████░░░░ 60% |
+| 🐍 **Programming** | Python | <img src="https://progress-bar.xyz/95/?suffix=%25&width=200" alt="95% Proficiency" /> |
+| 🤖 **Machine Learning** | Scikit-learn, SVM, Ensemble Methods | <img src="https://progress-bar.xyz/65/?suffix=%25&width=200" alt="65% Proficiency" /> |
+| 🧠 **Deep Learning** | PyTorch, TensorFlow, Keras | <img src="https://progress-bar.xyz/80/?suffix=%25&width=200" alt="80% Proficiency" /> |
+| 📊 **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn | <img src="https://progress-bar.xyz/95/?suffix=%25&width=200" alt="95% Proficiency" /> |
+| 🔍 **NLP** | NLTK, spaCy, Transformers, LangChain | <img src="https://progress-bar.xyz/50/?suffix=%25&width=200" alt="50% Proficiency" /> |
+| 👁️ **Computer Vision** | OpenCV, CNN, Image Processing | <img src="https://progress-bar.xyz/85/?suffix=%25&width=200" alt="85% Proficiency" /> |
+| 🚀 **Deployment** | Streamlit, Docker | <img src="https://progress-bar.xyz/60/?suffix=%25&width=200" alt="60% Proficiency" /> |
 
 </div>
 
