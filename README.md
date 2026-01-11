@@ -65,7 +65,7 @@
       <img src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif" width="420" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" width="430" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=6" height="210" width="450" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -76,18 +76,12 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight"
-        height="190"
-        width="430"
-        alt="Zahin2470 GitHub Stats"
+        src="https://github-readme-stats-fast.vercel.app/api?username=Zahin2470&show_icons=true&locale=en&theme=tokyonight" height="210" width="430" alt="Zahin2470 GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zahin2470&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5"
-        height="190"
-        width="450"
-        alt="Top Languages"
+        src="https://streak-stats.demolab.com/?user=Zahin2470&theme=nightowl&mode=daily" height="240" width="430"
       />
     </td>
   </tr>
