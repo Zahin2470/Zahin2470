@@ -16,6 +16,8 @@
 
 📨 How to reach me **abrarhossain1200@gmail.com**
 
+[![Github Follow](https://img.shields.io/github/followers/Zahin2470?label=Follow%20Me&style=social)](https://github.com/Zahin2470)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="750" />
 </div>
@@ -52,6 +54,9 @@
   <a href="https://codeforces.com/profile/md.zahin" target="_blank">
     <img alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48" height="48"/>
   </a>
+  <a href="https://github.com/Zahin2470" target="_blank">
+  <img alt="GitHub" src="https://img.icons8.com/color/48/github--v1.png"/>
+  </a>    
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
