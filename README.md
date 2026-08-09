@@ -8,7 +8,7 @@
   🤖 AI • ML • NLP • Full Stack • Data Analyst • Research • Programming
 </h3>
 
-<img align="right" alt="Coding" width="550" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
 
 🎓 I recently graduated with a B.Sc. in CSE from EWU
 
@@ -122,31 +122,44 @@
     <img src="https://badges.pufler.dev/visits/Zahin2470/Zahin2470?color=rainbow&logo=github" alt="GitHub visits" width="90" height="23">
 </p>
         
-<h2 align='center'><i><a href="https://github.com/Zahin2470/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align="center">
+  📈 <b>GitHub Activity</b>
+</h2>
+
 <p align="center">
-<a href="https://github.com/Zahin2470/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Zahin2470/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&area=true&hide_border=true"
+      width="100%"
+    />
+  </picture>
 </p>
 
-</br>
 
-## 🌟 Skills Distribution
+## 🧠 Skills & Expertise
 
 <div align="center">
 
-| **Category** | **Skills** | **Proficiency** |
-|:------------:|:----------:|:---------------:|
-| 🐍 **Programming** | Python | <img src="https://progress-bar.xyz/95/?suffix=%25&width=200" alt="95% Proficiency" /> |
-| 🤖 **Machine Learning** | Scikit-learn, SVM, Ensemble Methods | <img src="https://progress-bar.xyz/65/?suffix=%25&width=200" alt="65% Proficiency" /> |
-| 🧠 **Deep Learning** | PyTorch, TensorFlow, Keras | <img src="https://progress-bar.xyz/80/?suffix=%25&width=200" alt="80% Proficiency" /> |
-| 📊 **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn | <img src="https://progress-bar.xyz/95/?suffix=%25&width=200" alt="95% Proficiency" /> |
-| 🔍 **NLP** | NLTK, spaCy, Transformers, LangChain | <img src="https://progress-bar.xyz/50/?suffix=%25&width=200" alt="50% Proficiency" /> |
-| 👁️ **Computer Vision** | OpenCV, CNN, Image Processing | <img src="https://progress-bar.xyz/85/?suffix=%25&width=200" alt="85% Proficiency" /> |
-| 🚀 **Deployment** | Streamlit, Docker | <img src="https://progress-bar.xyz/60/?suffix=%25&width=200" alt="60% Proficiency" /> |
+|         Category          | Technologies                                      |    Level   |
+| :-----------------------: | :------------------------------------------------ | :--------: |
+|    🐍 **Programming**     | Python · JavaScript · TypeScript                  | 🟢🟢🟢🟢🟢 |
+|   🌐 **Full Stack**       | React · Node.js · Express.js · REST API           | 🟢🟢🟢🟢⚪ |
+| 🤖 **Machine Learning**   | Scikit-learn · SVM · Ensemble Methods             | 🟢🟢🟢🟢🟢 |
+|   🧠 **Deep Learning**    | PyTorch · TensorFlow · Keras                      | 🟢🟢🟢🟢⚪ |
+|      🔍 **NLP**           | NLTK · spaCy · Transformers · LangChain           | 🟢🟢🟢🟢⚪ |
+| 👁️ **Computer Vision**    | OpenCV · CNN · YOLO · Image Processing            | 🟢🟢🟢🟢⚪ |
+|   📊 **Data Analysis**    | Pandas · NumPy · Matplotlib · Seaborn             | 🟢🟢🟢🟢🟢 |
+| 🗄️ **Database**           | MongoDB · PostgreSQL                              | 🟢🟢🟢⚪⚪ |
+| 🔬 **Research**           | Information Retrieval · NLP · Deep Learning       | 🟢🟢🟢🟢⚪ |
+| 🚀 **Deployment**         | Docker · Streamlit · Vercel                       | 🟢🟢🟢🟢⚪ |
 
 </div>
 
