@@ -1,20 +1,22 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://raw.githubusercontent.com/Zahin2470/Zahin2470/main/Abrar_Hossain_Zahin.gif)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=33&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+👋+I'm+Md.+Abrar+Hossain+Zahin....!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=33&center=true&vCenter=true&width=800&height=70&duration=2500&pause=700&color=06B6D4&lines=Hi!+👋+I'm+Abrar+Hossain+Zahin;Fresh+CSE+Graduate+%7C+East+West+University+🎓;Full+Stack+AI+Engineer+🤖;AI%2FML%2FNLP+Engineer+🧠;Software+Developer+💻;Data+Analyst+💡;Machine+Learning+Researcher+🔬;Problem+Solver+🧩;Open+Source+Enthusiast+🌎;Lifelong+Learner+📚" />
 </h1>
 
-<h3 align="center">🤖 A Passionate Data Analyst, AI, ML, Programmer and Learner  🧠</h3>
+<h3 align="center">
+  🤖 AI • ML • NLP • Full Stack • Data Analyst • Research • Programming
+</h3>
 
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
+<img align="right" alt="Coding" width="550" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
 
-🔭  I am currently studying CSE at East West University
+🎓 I recently graduated with a B.Sc. in CSE from EWU
 
-👨‍💻  All of my projects are available at https://github.com/Zahin2470?tab=repositories
+🌐 Explore my projects and work on my **[Portfolio](https://abrar-hossain-zahin-portfolio.vercel.app)**
 
-💬  Ask me about **Data Science and Analytics**
+💬 Ask me about **AI/ML, Full Stack Development, Data Science, Analytics, and Software Engineering**
 
-📨 How to reach me **abrarhossain1200@gmail.com**
+📨 Reach me at **[abrarhossain1200@gmail.com](mailto:abrarhossain1200@gmail.com)**
 
 [![Github Follow](https://img.shields.io/github/followers/Zahin2470?label=Follow%20Me&style=social)](https://github.com/Zahin2470)
 
@@ -148,10 +150,12 @@
 
 </div>
 
-<h2>🕹️ Arcade Mode: Commit Eater 👾</h2>
+<div align="center">
+  <h2>🕹️ Arcade Mode: Commit Eater 👾</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Zahin2470/Zahin2470/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
