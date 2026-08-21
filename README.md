@@ -44,14 +44,13 @@
 <table align="right">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eXBsNzR6Y3A1NDR2YW1vOWs3NmZ1a2thbzdwOWkyaHowbmU3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="280" height="225" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eXBsNzR6Y3A1NDR2YW1vOWs3NmZ1a2thbzdwOWkyaHowbmU3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="280" height="200" />
     </td>
   </tr>
 </table>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
-
   <!-- ── Programming Languages & Frontend ── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" title="C"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>&nbsp;
@@ -64,7 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS"/>&nbsp;
   <!-- ── Backend / Frameworks / Databases / AI / ML / Data Science── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" title="Django"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" title="Flask"/>&nbsp;
@@ -77,8 +75,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" title="Matplotlib"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;
-
   <!-- ── BaaS / Cloud / DevTools / Design── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>&nbsp;
@@ -88,9 +84,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40" title="Adobe Illustrator"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;  
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;
 </p>
 
 ## 🏆 GitHub Trophies & 💫 What Drives My Passion
