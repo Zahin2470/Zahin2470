@@ -10,11 +10,11 @@
 
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
 
-🎓 I recently graduated with a B.Sc. in CSE from EWU
+🎓 I recently graduated with a B.Sc. in CSE from East West University
 
 🌐 Explore my projects and work on my **[Portfolio](https://abrar-hossain-zahin-portfolio.vercel.app)**
 
-💬 Ask me about **AI/ML, Full Stack Development, Data Science, Analytics, and Software Engineering**
+💬 Ask me about **AI/ML/CV/NLP, Full Stack Development, Data Science, Analytics, and Software Engineering**
 
 📨 Reach me at **[abrarhossain1200@gmail.com](mailto:abrarhossain1200@gmail.com)**
 
@@ -27,7 +27,7 @@
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/md-abrar-hossain-zahin/" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height="50"/></a>&nbsp;
-  <a href="https://www.facebook.com/Md.AbrarHossainZahin/" target="_blank"><img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" height="50"/></a>&nbsp;
+  <a href="https://www.facebook.com/AbrarHossainZahin/" target="_blank"><img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" height="50"/></a>&nbsp;
   <a href="https://instagram.com/md.abrarhossainzahin" target="_blank"><img alt="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="50"/></a>&nbsp;
   <a href="https://www.youtube.com/@Md.Abrar_Hossain_Zahin" target="_blank"><img alt="YouTube" src="https://img.icons8.com/color/48/000000/youtube-play.png" height="50"/></a>&nbsp;
   <a href="https://www.kaggle.com/mdabrarhossainzahin" target="_blank"><img alt="Kaggle" src="https://img.icons8.com/ios-filled/50/20BEFF/k.png" height="50"/></a>&nbsp;
@@ -37,7 +37,17 @@
   <a href="https://www.researchgate.net/profile/Abrar-Zahin-7?ev=hdr_xprf" target="_blank"><img alt="ResearchGate" src="https://cdn.simpleicons.org/researchgate/00ccbb" height="50"/></a>&nbsp;
   <a href="https://codeforces.com/profile/md.zahin" target="_blank"><img alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="50"/></a>&nbsp;
   <a href="https://github.com/Zahin2470" target="_blank"><img alt="GitHub" src="https://img.icons8.com/color/48/github--v1.png" height="50"/></a>
+<a href="https://abrar-hossain-zahin-portfolio.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.icons8.com/color/48/domain.png" height="50"/></a>&nbsp;
+  <a href="https://orcid.org/0009-0001-5246-7759" target="_blank"><img alt="ORCID" src="https://cdn.simpleicons.org/orcid/a6ce39" height="50"/></a>  
 </p>
+
+<table align="right">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eXBsNzR6Y3A1NDR2YW1vOWs3NmZ1a2thbzdwOWkyaHowbmU3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="280" height="225" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
@@ -55,7 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>&nbsp;
   <!-- ── Backend / Frameworks / Databases / AI / ML / Data Science── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" title="Django"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" title="Flask"/>&nbsp;
@@ -69,7 +78,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" title="Matplotlib"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;
 
   <!-- ── BaaS / Cloud / DevTools / Design── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>&nbsp;
@@ -80,6 +88,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40" title="Adobe Illustrator"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;  
 
 </p>
 
@@ -112,8 +122,12 @@
   </tr>
 </table>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zahin2470&limit=7&theme=dark&combine_all_yearly_contributions=true)
+<div align=center>
+  <h1>🔝 Top Contributed Repositories</h1>
+
+  ![](https://github-trophies.vercel.app/?username=Zahin2470&column=no&theme=algolia&no-bg=true&no-frame=true)
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=Zahin2470&icon=27&color=5)](https://visitcount.itsvg.in) 
 
