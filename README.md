@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Zahin2470/Zahin2470/main/Abrar_Hossain_Zahin.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=33&center=true&vCenter=true&width=800&height=70&duration=2500&pause=700&color=06B6D4&lines=Hi!+👋+I'm+Abrar+Hossain+Zahin;Fresh+CSE+Graduate+%7C+East+West+University+🎓;Full+Stack+AI+Engineer+🤖;AI%2FML%2FNLP+Engineer+🧠;Software+Developer+💻;Data+Analyst+💡;Machine+Learning+Researcher+🔬;Problem+Solver+🧩;Open+Source+Enthusiast+🌎;Lifelong+Learner+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=33&center=true&vCenter=true&width=800&height=70&duration=2500&pause=700&color=06B6D4&lines=Hi!+👋+I'm+Abrar+Hossain+Zahin;Fresh+CSE+Graduate+%7C+East+West+University+🎓;M.Sc.+in+AI%2FML+%7C+East+West+University+🎓;Graduate+Teaching+Assistant+👨‍🏫;Full+Stack+AI+Engineer+🤖;AI%2FML%2FNLP+Engineer+🧠;Software+Developer+💻;Data+Analyst+💡;Machine+Learning+Researcher+🔬;Problem+Solver+🧩;Open+Source+Enthusiast+🌎;Lifelong+Learner+📚" />
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/ad9a07c831174909b1def86566299086d03e1b3d7672d06605ff67dbcd4a5055/68747470733a2f2f746f776172647364617461736369656e63652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f3170495168512d507a62333546785352646f42725243412e676966">
 
-🎓 I recently graduated with a B.Sc. in CSE from East West University
+🎓 I recently graduated with a B.Sc. in CSE from East West University. M.Sc. in AI\ML Ongoing
 
 🌐 Explore my projects and work on my **[Portfolio](https://abrar-hossain-zahin-portfolio.vercel.app)**
 
@@ -18,7 +18,7 @@
 
 📨 Reach me at **[abrarhossain1200@gmail.com](mailto:abrarhossain1200@gmail.com)**
 
-[![Github Follow](https://img.shields.io/github/followers/Zahin2470?label=Follow%20Me&style=social)](https://github.com/Zahin2470)
+Please [![Github Follow](https://img.shields.io/github/followers/Zahin2470?label=Follow%20Me&style=social)](https://github.com/Zahin2470)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="750" />
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="Coding GIF"/></h3>
 <p align="left">
   <!-- ── Programming Languages & Frontend ── -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" title="C"/>&nbsp;
@@ -131,24 +131,26 @@
     <img src="https://komarev.com/ghpvc/?username=Zahin2470&style=plastic&label=Views" alt="Profile views" width="90" height="23">
     <img src="https://badges.pufler.dev/visits/Zahin2470/Zahin2470?color=rainbow&logo=github" alt="GitHub visits" width="90" height="23">
 </p>
-        
+ 
 <h2 align="center">
-  📈 <b>GitHub Activity</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  GitHub Activity
 </h2>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=github-compact&hide_border=true&area=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=github-compact&hide_border=true&area=true"
     />
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Zahin2470&theme=github-compact&hide_border=true&area=true"
       width="100%"
+      alt="GitHub Activity Graph"
     />
   </picture>
 </p>
